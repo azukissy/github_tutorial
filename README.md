@@ -1,9 +1,9 @@
 # github_tutorial
-私の初めてのGitHubリポジトリ。
+私の初めてのGitHubリポジトリ。  
 My first GitHub repository.
 
 # Why do it?
-GitHubについて学ぶため。
+GitHubについて学ぶため。  
 Learn about GitHub.
 
 # Language
